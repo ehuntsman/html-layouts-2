@@ -1,0 +1,68 @@
+body {
+	padding: 20px;
+}
+header {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+header div {
+	height: 200px;
+	width: 25vw;
+}
+
+.header-1 {
+	background: red;
+}
+
+.header-2 {
+	background: blue;
+}
+
+.header-3 {
+	background: green;
+}
+
+.text-box {
+	margin: 30px 0;
+}
+
+.large-box-container {
+	display: flex;
+}
+
+.large-box-container div {
+	height: 300px;
+}
+
+.castor {
+	background: red;
+	width: 25vw;
+}
+
+.pollox {
+	background: blue;
+	width: 75vw;
+}
+
+.small-box-container {
+	display: flex;
+	margin-top: 25px;
+}
+
+.small-box-container div {
+	height: 100px;
+}
+
+.one {
+	background: blue;
+	width: 75vw;
+}
+
+.two {
+	background: black;
+	border-left: 30px solid red;
+	border-right: 30px solid red;
+	width: 25vw;
+}
